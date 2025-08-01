@@ -1,5 +1,5 @@
 .photo {
-  background-image: url('/assets/adria.png');
+  background-image: url('assets/adria.png');
   background-position: center 15%;
   background-size: cover;
   border-radius: 9999px; /* para rounded-full */
