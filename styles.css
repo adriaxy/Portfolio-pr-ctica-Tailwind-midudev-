@@ -1,0 +1,8 @@
+.photo {
+  background-image: url('/assets/adria.png');
+  background-position: center 15%;
+  background-size: cover;
+  border-radius: 9999px; /* para rounded-full */
+  width: 4rem; /* para size-16 */
+  height: 4rem;
+}
